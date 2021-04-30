@@ -1,8 +1,4 @@
 #include <iostream>
-#include <string.h>
-#include <algorithm>
-#include <queue>
-#include <vector>
 using namespace std;
 
 void BubbleSort(int* input, int n) {
